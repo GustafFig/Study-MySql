@@ -4,4 +4,4 @@ Um repositório com foco educacional para guardar códigos e insights sobre MySq
 
 ##  Material
 
-O banco de dados sakila foi retirado [desse site](https://dev.mysql.com/doc/index-other.html) foram usados
+O banco de dados sakila foi retirado [desse site](https://dev.mysql.com/doc/index-other.html)
